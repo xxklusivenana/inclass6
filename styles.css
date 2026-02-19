@@ -2,7 +2,7 @@
    width: 400px;
    height: 300px;
 
-   /* TODO: Add part of your solution here */
+   /* TODO: test*/
    
 }
 
@@ -59,10 +59,12 @@
 
 .top-left {
    /* TODO: Add part of your solution here */
-
+   left: 2px;
+   top: 2px;
 }
 
 .bottom-right {
    /* TODO: Add part of your solution here */
-
+   right: 2px;
+   bottom: 2px;
 }
