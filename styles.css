@@ -28,12 +28,16 @@
 }      
 
 .card-top {
-   /* TODO: Add part of your solution here */
+   position: absolute;
+   margin-left: 150px;
+   margin-top: 100px;
 
 }
 
 .card-bottom {
-   /* TODO: Add part of your solution here */
+   position: absolute;
+   margin-left: 240px;
+   margin-top: 120px;
 
 }
 
