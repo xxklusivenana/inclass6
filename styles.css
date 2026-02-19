@@ -2,8 +2,7 @@
    width: 400px;
    height: 300px;
 
-   /* TODO: test*/
-   
+   background: linear-gradient(to bottom, forestgreen, darkgreen);
 }
 
 .card-red {
@@ -23,8 +22,8 @@
    text-align: center;
    font-size: 80px;
 
-   /* TODO: Add part of your solution here */
-
+   border-radius: 5px;
+   box-shadow: 3px 3px 0px #111;
 }      
 
 .card-top {
