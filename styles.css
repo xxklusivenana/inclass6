@@ -1,8 +1,13 @@
 .table {
    width: 400px;
    height: 300px;
+<<<<<<< HEAD
    background: linear-gradient(to bottom, forestgreen, darkgreen);
    
+=======
+
+   background: linear-gradient(to bottom, forestgreen, darkgreen);
+>>>>>>> 8de05ae4778c4ce052531d775041b2470e28cb3f
 }
 
 .card-red {
@@ -25,7 +30,10 @@
 
    border-radius: 5px;
    box-shadow: 3px 3px 0px #111;
+<<<<<<< HEAD
 
+=======
+>>>>>>> 8de05ae4778c4ce052531d775041b2470e28cb3f
 }      
 
 .card-top {
